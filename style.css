@@ -1,0 +1,14 @@
+body{
+    margin: 0;
+    padding: 0;
+    position: relative;
+    width: 100vw;
+    height: 100vh;
+    background: #000;
+}
+.player{
+    width: max-content;
+    margin: 0 auto;
+    top: calc(50% - 250px);
+   position: relative;
+}
